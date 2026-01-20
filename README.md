@@ -1,5 +1,7 @@
 # Python Logic Challenges - Utility Functions
 
+![Logique](sci-fi-cpu.png)
+
 A comprehensive collection of utility functions for string manipulation, dictionary operations, and array processing, organized into clean, testable classes.
 
 ## 📦 Project Structure
